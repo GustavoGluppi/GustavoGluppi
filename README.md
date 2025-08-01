@@ -26,8 +26,10 @@ Hey! I'm Gustavo, a tech enthusiast and full-stack dev always learning, building
 
 ### 📌 Featured Projects
 
-- [**Kissflow-N8N-Node-unofficial**]([https://github.com/GustavoGluppi/automated-kissflow-api](https://github.com/GustavoGluppi/Kissflow-N8N-Node-unofficial-))  
+- [**Kissflow N8N Node Unofficial**](https://github.com/GustavoGluppi/Kissflow-N8N-Node-unofficial-)  
   An unofficial custom node for Kissflow in n8n.
+- [**Image Timestamp Generator**](https://github.com/GustavoGluppi/Image-Timestamp-Generator)  
+  A way to add fake timestamps to an image.
 
 ---
 
