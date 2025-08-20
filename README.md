@@ -33,8 +33,4 @@ Hey! I'm Gustavo, a tech enthusiast and full-stack dev always learning, building
 
 ---
 
-### 🚀 Stats
-
 > Always trying my best
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoGluppi&show_icons=true&theme=dark)
